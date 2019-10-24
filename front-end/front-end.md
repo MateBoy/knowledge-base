@@ -1,5 +1,6 @@
 # Front End
-> Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.  
+> Front-end web development is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
+
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
 
 ## Tools used in front end development
