@@ -10,4 +10,5 @@
     - [Hindi](languages/hindi/hindi.md)
 - [Music](music/music.md)
     - [Listening to music at work](music/music-at-work.md)
+    - [Listening Logs](music/listening-logs/listening-logs.md)
         - [2019 Listening Log](music/listening-logs/2019-listening-log.md)
