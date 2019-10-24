@@ -15,4 +15,6 @@ My top artists are:
 - Panda Bear
 - Belle & Sebastian
 - Deerhunter
-[My profile on Last.fm](https://www.last.fm/user/MeTRoD)
+
+## Links
+- [My profile on Last.fm](https://www.last.fm/user/MeTRoD)
