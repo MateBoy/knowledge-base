@@ -3,6 +3,6 @@ Languages are cool.
 Random sounds when combined convey meaning to someone who knows that language.
 
 ## Links
-- [https://duolingo.com](Duolingo) - Free language learning that uses spaced repetition and gamification to increase effectiveness.  
-- [https://tatoeba.org](Tatoeba) - Collection of sentences and translations.  
-- [https://apps.ankiweb.net](Anki) - Amazing app for learning anything (including languges) using spaced repetition.
+- [Duolingo](https://duolingo.com) - Free language learning that uses spaced repetition and gamification to increase effectiveness.  
+- [Tatoeba](https://tatoeba.org) - Collection of sentences and translations.  
+- [Anki](https://apps.ankiweb.net) - Amazing app for learning anything (including languges) using spaced repetition.
