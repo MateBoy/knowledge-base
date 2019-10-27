@@ -9,7 +9,7 @@
 * **Johnny Jewel** - Digital Rain { 30/1 }
 * **Jonny Greenwood** - Phantom Thread (Original Motion Picture Soundtrack) { 31/1 }
 
-## February
+### February
 * **Rhye** - Blood { 2/2 }
 * **MGMT** - Little Dark Age { 9/2 }
 * **Belle & Sebastian** - How to Solve Our Human Problems (Part 3) [EP] { 16/2 }
