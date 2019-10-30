@@ -188,3 +188,9 @@
 * **Jacques Greene** - Dawn Chorus { 18/10 }
 * **Caroline Polachek** - PANG { 18/10 }
 * **Battles** - Juice B Crypts { 18/10 }
+* **Vagabon** - Vagabon { 21/10 }
+* **Weyes Blood** - Rough Trade Sessions [EP] { 22/10 }
+* **Cigarettes After Sex** - Cry { 25/10 }
+* **Swans** - Leaving Meaning { 25/10 }
+* **Hana Vu** - Nicole Kidman / Anne Hathaway [EP] { 28/10 }
+* **Teebs** - Anicca { 30/10 }
