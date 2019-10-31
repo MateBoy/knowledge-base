@@ -8,6 +8,10 @@
 - [Spotify](https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa?si=DOIaBpLvTpe9D3koqTqKLg)
 
 ## India 🇮🇳
+### Angad Berar
+- Genre: Psychedelic Rock, Krautrock
+- [Spotify](https://open.spotify.com/artist/0lSDFUCTWrebuew5W3XT18?si=c0lsLtLCR02wV5xIexVjJw)
+
 ### Lifafa
 - Genre: Ambient House, South Asian Music
 - [Spotify](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw?si=Y-u2gUHFTvCvTbQY4EppuA)

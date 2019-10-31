@@ -1,5 +1,5 @@
 ## BRAZIL 🇧🇷
-## João Gilberto
+### João Gilberto
 - Genre: Bossa nova
 - [Spotify](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy?si=y4ce8pXFSvCJzdHxNqCgmQ)
 
