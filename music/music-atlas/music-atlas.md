@@ -4,4 +4,5 @@ Here I'll index amazing music sorted by continent and country.
 
 - [Africa](music/music-atlas/africa.md)
 - [Asia](music/music-atlas/asia.md)
+- [Europe](music/music-atlas/europe.md)
 - [South America](music/music-atlas/south-america.md)

@@ -16,4 +16,5 @@
     - [Music Atlas](music/music-atlas/music-atlas.md)
         - [Africa](music/music-atlas/africa.md)
         - [Asia](music/music-atlas/asia.md)
+        - [Europe](music/music-atlas/europe.md)
         - [South America](music/music-atlas/south-america.md)
