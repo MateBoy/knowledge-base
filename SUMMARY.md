@@ -14,3 +14,6 @@
         - [2018 Listening Log](music/listening-logs/2018-listening-log.md)
         - [2019 Listening Log](music/listening-logs/2019-listening-log.md)
     - [Music Atlas](music/music-atlas/music-atlas.md)
+        - [Africa](music/music-atlas/africa.md)
+        - [Asia](music/music-atlas/asia.md)
+        - [South America](music/music-atlas/south-america.md)
