@@ -1,3 +1,5 @@
+## Total Count: 181 Albums / EPs
+
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
 * **Old Sea Brigade** - Ode to a Friend { 9/1 }
@@ -194,3 +196,10 @@
 * **Swans** - Leaving Meaning { 25/10 }
 * **Hana Vu** - Nicole Kidman / Anne Hathaway [EP] { 28/10 }
 * **Teebs** - Anicca { 30/10 }
+* **Aldous Harding** - Designer { 31/10 }
+
+### November
+* **Earl Sweatshirt** - Feet of Clay { 1/11 }
+* **Leif Vollebekk** - New Ways { 1/11 }
+* **Bella Boo** - Once Upon A Passion { 1/11 }
+* **Michael Kiwanuka** - KIWANUKA { 1/11 }
