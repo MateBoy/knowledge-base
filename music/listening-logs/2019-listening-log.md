@@ -203,6 +203,6 @@
 * **Leif Vollebekk** - New Ways { 1/11 }
 * **Bella Boo** - Once Upon A Passion { 1/11 }
 * **Michael Kiwanuka** - KIWANUKA { 1/11 }
-* **Panda Bear** - A Day With the Homes [EP] { 2/11 }
+* **Panda Bear** - A Day With the Homies [EP] { 2/11 }
 * **Skee Mask** - Iss004 [EP] { 2/11 }
 * **⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ** - ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ(ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ [EP] { 2/11 }
