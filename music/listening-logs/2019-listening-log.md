@@ -1,4 +1,4 @@
-> Total Count: 184 Albums / EPs
+> Total Count: 185 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
@@ -206,3 +206,5 @@
 * **Panda Bear** - A Day With the Homies [EP] { 2/11 }
 * **Skee Mask** - Iss004 [EP] { 2/11 }
 * **⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ** - ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ(ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ [EP] { 2/11 }
+* **Lucy Dacus** - 2019 [EP] { 8/11 }
+* **FKA twigs** - MAGDALENE { 8/11 }
