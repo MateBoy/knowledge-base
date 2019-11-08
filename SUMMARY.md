@@ -2,6 +2,7 @@
 
 - [Anki](anki/anki.md)
 - [Front End](front-end/front-end.md)
+    - [JavaScript](front-end/javascript/javascript.md)
 - [iOS](ios/ios.md)
     - [iOS Apps](ios/ios-apps.md)
 - [Languages](languages/languages.md)
