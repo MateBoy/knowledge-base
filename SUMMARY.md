@@ -2,6 +2,8 @@
 
 - [Anki](anki/anki.md)
 - [Front End](front-end/front-end.md)
+- [iOS](ios/ios.md)
+    - [iOS Apps](ios/ios-apps.md)
 - [Languages](languages/languages.md)
     - [English](languages/english/english.md)
         - [Beautiful Adjectives in English](languages/english/beautiful-adjectives.md)
