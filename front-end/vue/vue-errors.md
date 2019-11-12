@@ -1,0 +1,1 @@
+Here are some common rendering or templating errors and what might cause them.
