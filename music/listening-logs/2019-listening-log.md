@@ -1,4 +1,4 @@
-> Total Count: 186 Albums / EPs
+> Total Count: 189 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
