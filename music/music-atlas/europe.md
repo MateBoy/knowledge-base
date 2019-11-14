@@ -1,3 +1,12 @@
+## Germany 🇩🇪
+### DJ Koze
+- Genre: Deep House, Microhouse, Nu-Disco
+- [Spotify](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg?si=0PeJRvgOQQWJloUMYmaLHQ)
+
+### Nils Frahm
+- Genre: Modern Classical, Ambient, Post-Minimalism
+- [Spotify](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=yf-afNSnQNeeU5YQbBTwTQ)
+
 ## Iceland 🇮🇸
 ### Ólafur Arnalds
 - Genre: Modern Classical, Ambient
@@ -25,3 +34,8 @@
 ### Makthaverskan
 - Genre: Post-Punk, Indie Rock
 - [Spotify](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E?si=D8HYW8CYSb2jsk9Ozu_Tgw)
+
+## United Kingdom 🇬🇧
+### Andy Stott
+- Genre: Dub Techno, UK Bass, Minimal Techno
+- [Spotify](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K?si=2EEgdaBwQbWKZWV1Oi4I0w)

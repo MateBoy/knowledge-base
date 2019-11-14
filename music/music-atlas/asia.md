@@ -20,6 +20,10 @@
 - Genre: Indian Pop
 - [Spotify](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc?si=NeWeuu5QQtiUTsLTan6P2g)
 
+### Ravi Shankar
+- Genre: Hindustani Classical Music
+- [Spotify](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0?si=2mfu914nTSazs5LSY5xbeQ)
+
 ### Rupa
 - Genre: Disco, Funk, Indian Pop
 - [Spotify](https://open.spotify.com/artist/6e0Crf87DmXzH3xgFtkCvI?si=fJLx7w6uQiCyRVlKknekYg)
@@ -39,6 +43,10 @@
 - [Spotify](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl?si=xo5dEZBcTdeSZY7aqEuvRw)
 
 ## South Korea 🇰🇷
+### 김정미 (Kim Jung Mi)
+- Genre: Folk Pop, Psychedelic Folk
+- [Spotify](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca?si=Jrj64-ezS2CvsGaN4f3bRQ)
+
 ### 공중도둑 (Mid-Air Thief)
 - Genre: Psychedelic Pop, Folktronica, Neo-Psychedelia
 - [Spotify](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0?si=kPoEmqJdQYGBEE6o36NEtQ)
