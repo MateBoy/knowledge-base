@@ -1,4 +1,4 @@
-> Total Count: 189 Albums / EPs
+> Total Count: 191 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
@@ -211,3 +211,4 @@
 * **Andy Stott** - It Should Be Us [EP] { 8/11 }
 * **TNGHT** - II [EP] { 12/11 }
 * **Anne-James Chaton & alva noto** - Alphabet { 15/11 }
+* **Hammock** - Silencia { 20/11 }
