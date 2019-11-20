@@ -210,3 +210,4 @@
 * **FKA twigs** - MAGDALENE { 8/11 }
 * **Andy Stott** - It Should Be Us [EP] { 8/11 }
 * **TNGHT** - II [EP] { 12/11 }
+* **Anne-James Chaton & alva noto** - Alphabet { 15/11 }

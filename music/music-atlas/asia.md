@@ -38,6 +38,10 @@
 - [Spotify](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA?si=ucp8eTiFQ0KdZaKScAmuaQ)
 
 ## Pakistan 🇵🇰
+### Abida Parveen
+- Genre: Qawwali, Kafi, Ghazal
+- [Spotify](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl?si=SiMo2AWdQLiNYzVT1HmPAg)
+
 ### Nusrat Fateh Ali Khan
 - Genre: Qawwali
 - [Spotify](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl?si=xo5dEZBcTdeSZY7aqEuvRw)
