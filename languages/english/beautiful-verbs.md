@@ -3,7 +3,7 @@ leave abruptly
 *some overthrown dictator who had absquatulated to the USA*
 
 ### Defenestrate
-throw (someone) out of a window
+throw (someone) out of a window  
 *she had made up her mind that the woman had been defenestrated, although the official verdict had been suicide.*
 
 ### Gallivant

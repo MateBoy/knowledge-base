@@ -22,7 +22,7 @@ intellectually productive or inventive to a marked degree
 *a halcyon atmosphere*
 
 ### Interminable
-endless or apparently endless (often used hyperbolically)
+endless or apparently endless (often used hyperbolically)  
 *we got bogged down in interminable discussions.*
 
 ### Maladroit

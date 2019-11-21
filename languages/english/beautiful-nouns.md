@@ -1,6 +1,10 @@
 ### Ailurophile
 A cat lover
 
+### Anathema
+ something or someone that one vehemently dislikes  
+ *racial hatred was anathema to her.*
+
 ### Avarice
 extreme greed for wealth or material gain  
 *he was rich beyond the dreams of avarice*
