@@ -63,11 +63,15 @@
 
 
 ### Father John Misty - The Night Josh Tillman Came To Our Apartment
-> She says, like literally, music is the air she breathes / And the malaprops make me want to fucking scream / I wonder if she even knows what that word means / Well, it's literally not that  
+> She says, like literally, music is the air she breathes  
+> And the malaprops make me want to fucking scream  
+> I wonder if she even knows what that word means  
+> Well, it's literally not that  
 
 
 ### Father John Misty - When You're Smiling and Astride Me
-> When you're smiling and astride me / I can hardly believe I've found you and I'm terrified by that  
+> When you're smiling and astride me  
+> I can hardly believe I've found you and I'm terrified by that  
 
 ---
 
@@ -99,9 +103,11 @@
 
 ---
 
+## W
+
 ### Weyes Blood - Something to Believe
-> I just laid down and cried
-> The waters don't really go by me
-> Give me something I can see
-> Something bigger and louder than the voices in me
+> I just laid down and cried  
+> The waters don't really go by me  
+> Give me something I can see  
+> Something bigger and louder than the voices in me  
 > Something to believe
