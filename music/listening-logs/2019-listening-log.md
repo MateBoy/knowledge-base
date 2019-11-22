@@ -212,3 +212,5 @@
 * **TNGHT** - II [EP] { 12/11 }
 * **Anne-James Chaton & alva noto** - Alphabet { 15/11 }
 * **Hammock** - Silencia { 20/11 }
+* **Home** - Hold [EP] { 21/11 }
+* **Leonard Cohen** - Thanks for the Dance { 22/11 }

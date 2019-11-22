@@ -53,6 +53,10 @@ one's range of knowledge or understanding
 ### Limerence
 a state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one's feelings reciprocated, etc
 
+### Malapropism
+the mistaken use of a word in place of a similar-sounding one, often with an amusing effect  
+*dance a flamingo (instead of flamenco)*
+
 ### Mondegreen
 a misunderstood or misinterpreted word or phrase resulting from a mishearing of the lyrics of a song  
 *1950s: from Lady Mondegreen, a misinterpretation of the phrase 'laid him on the green', from the traditional ballad ‘The Bonny Earl of Murray’*
