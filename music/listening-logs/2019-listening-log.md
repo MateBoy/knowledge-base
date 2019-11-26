@@ -214,3 +214,5 @@
 * **Hammock** - Silencia { 20/11 }
 * **Home** - Hold [EP] { 21/11 }
 * **Leonard Cohen** - Thanks for the Dance { 22/11 }
+* **Mark Korven** - The Lighthouse (Original Motion Picture Soundtrack) { 22/11 }
+* **Beck** - Hyperspace { 26/11 }
