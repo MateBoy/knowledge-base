@@ -1,4 +1,4 @@
-> Total Count: 191 Albums / EPs
+> Total Count: 198 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
@@ -216,3 +216,6 @@
 * **Leonard Cohen** - Thanks for the Dance { 22/11 }
 * **Mark Korven** - The Lighthouse (Original Motion Picture Soundtrack) { 22/11 }
 * **Beck** - Hyperspace { 26/11 }
+* **Michiru Aoyama** - Persimmon [EP] { 29/11 }
+* **Susanne Sundfør** - Music For People In Trouble (Live from the Barbican) { 29/11 }
+* **Shida Shahabi** - Shifts [EP] { 29/11 }

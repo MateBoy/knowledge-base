@@ -21,6 +21,21 @@ $ git commit -a -m "Commit message" -m "Commit description"
 $ git add .
 ```
 
+#### I need to switch branch but don't want to commit my work-in-progress changes
+```
+$ git stash
+```
+
+Then, when you need to re-apply the stash:
+```
+$ git stash apply
+```
+
+And finally, when all looks good and you want to delete your stash:
+```
+git stash drop
+```
+
 #### I want to list all existing remote branches
 ```
 $ git branch -r
