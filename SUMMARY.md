@@ -10,6 +10,7 @@
         - [JavaScript](development/front-end/javascript/javascript.md)
         - [Vue.js](development/front-end/vue/vue.md)
             - [Common Vue.js Errors](development/front-end/vue/vue-errors.md)
+            - [Vue Testing](development/front-end/vue/vue-testing.md)
 - [Humans](humans/humans.md)
     - [Interesting Humans](humans/interesting-humans.md)
 - [Software](software/software.md)
