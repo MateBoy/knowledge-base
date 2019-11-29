@@ -3,6 +3,10 @@
 - Genre: Cambodian Pop
 - [Spotify](https://open.spotify.com/artist/6RmYU3sfCbXaIspp8T3YmX?si=no_RhtpiRLqWPPu3uqAKRw)
 
+### Ros Serey Sothea
+- Genre: Cambodian Pop
+- [Spotify](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0?si=Wjabw94nSNWzLfp1GQQywg)
+
 ### Sinn Sisamouth
 - Genre: Cambodian Pop
 - [Spotify](https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa?si=DOIaBpLvTpe9D3koqTqKLg)

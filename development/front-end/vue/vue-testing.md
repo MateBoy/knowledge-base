@@ -24,14 +24,14 @@ Returns HTML of `Wrapper` DOM node as a string.
 wrapper.html()
 ```
 
-### Common Issues
+## Common Issues
 Here are some common issues you might run into when unit testing Vue.
 
 ### I trigger events on components but the DOM isn't updating
 Cause: Vue re-renders the DOM asynchronously, so you need to wait for this update explicitly.
 Before this could be done with a setting when mounting your Vue component in your tests via the `sync: true` flag, but this was depcreated on November 28th, 2019, as per the [changelog](https://github.com/vuejs/vue-test-utils/blob/dev/CHANGELOG.md#100-beta30-2019-11-28).
 
-```
+```javascript
 it('render text', async () => {
     const wrapper = mount(TestComponent)
     

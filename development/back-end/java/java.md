@@ -10,7 +10,7 @@ Java is a statically typed language, meaning the **type** of a variable has to b
 This results in a variable's type being known at **compile time** (as opposed to at **run-time**).  
 This is done as follows:
 
-```
+```java
 int gear = 1;
 ```
 
