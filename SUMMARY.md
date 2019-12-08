@@ -23,6 +23,7 @@
         - [Beautiful Verbs in English](languages/english/beautiful-verbs.md)
         - [The Most Beautiful English Word](languages/english/most-beautiful-word.md)
     - [Hindi](languages/hindi/hindi.md)
+    - [Khmer](languages/khmer/khmer.md)
 - [Music](music/music.md)
     - [Beautiful Lyrics](music/beautiful-lyrics.md)
     - [Listening to music at work](music/music-at-work.md)

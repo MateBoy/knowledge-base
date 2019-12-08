@@ -1,6 +1,11 @@
 Languages are cool.  
 Random sounds when combined convey meaning to someone who knows that language.
 
+## Languages I'm Interested In
+- [English](english/english.md)
+- [Hindi](hindi/hindi.md)
+- [Khmer](khmer/khmer.md)
+
 ## Frequency Lists
 When learning a language, a good strategy is to learn the most frequently used words in that language first.  
 Thankfully, Wiktionary has a list with links to get the most frequently used words in a lot of languages.  
