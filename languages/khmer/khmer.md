@@ -16,6 +16,9 @@
 - Words are stressed on the final syllable
 
 ## Script facts
+
+For more see [Khmer Script](khmer-script.md)
+
 - Type: Abugida
   - An *abugida* is a writing system in which consonant-vowel sequences are written as a unit and vowel notation is secondary
 - Direction: Left-to-right

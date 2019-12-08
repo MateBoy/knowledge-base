@@ -24,6 +24,7 @@
         - [The Most Beautiful English Word](languages/english/most-beautiful-word.md)
     - [Hindi](languages/hindi/hindi.md)
     - [Khmer](languages/khmer/khmer.md)
+      - [Khmer Script](languages/khmer/khmer-script.md)
 - [Music](music/music.md)
     - [Beautiful Lyrics](music/beautiful-lyrics.md)
     - [Listening to music at work](music/music-at-work.md)
