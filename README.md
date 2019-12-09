@@ -1,5 +1,5 @@
 # Knowledge Base
-Hi there! 👋
+Hi there! 👋  
 My name is Mathias and this wiki is an ongoing database of knowledge I both want to share and want to remember and document for myself.
 
 It was inspired by Nikitia Voloboev's amazing [Everything I Know](https://wiki.nikitavoloboev.xyz/).
