@@ -1,4 +1,5 @@
-> Total Count: 198 Albums / EPs
+### Total Count
+200 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
@@ -191,6 +192,7 @@
 * **Caroline Polachek** - PANG { 18/10 }
 * **Battles** - Juice B Crypts { 18/10 }
 * **Vagabon** - Vagabon { 21/10 }
+* **Saariselka** - The Ground Our Sky { 21/10 }
 * **Weyes Blood** - Rough Trade Sessions [EP] { 22/10 }
 * **Cigarettes After Sex** - Cry { 25/10 }
 * **Swans** - Leaving Meaning { 25/10 }
@@ -219,3 +221,6 @@
 * **Michiru Aoyama** - Persimmon [EP] { 29/11 }
 * **Susanne Sundfør** - Music For People In Trouble (Live from the Barbican) { 29/11 }
 * **Shida Shahabi** - Shifts [EP] { 29/11 }
+
+### December
+* **Burial** - Tunes 2011 To 2019 { 6/12 }

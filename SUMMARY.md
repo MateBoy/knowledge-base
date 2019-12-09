@@ -25,6 +25,8 @@
     - [Hindi](languages/hindi/hindi.md)
 - [Music](music/music.md)
     - [Beautiful Lyrics](music/beautiful-lyrics.md)
+    - [Best Of](music/best-of/best-of.md)
+        - [Best Albums Of 2019](music/best-of/best-albums-2019.md)
     - [Listening to music at work](music/music-at-work.md)
     - [Listening Logs](music/listening-logs/listening-logs.md)
         - [2018 Listening Log](music/listening-logs/2018-listening-log.md)
