@@ -1,3 +1,6 @@
+### Total Count
+190 Albums / EPs
+
 ### January
 * **tune-yards** - I can feel you creep into my private life { 19/1 }
 * **First Aid Kit** - Ruins { 19/1 }
