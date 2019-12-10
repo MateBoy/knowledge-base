@@ -4,19 +4,19 @@ Here's my 20 favorite albums of 2019.
 - Jessica Pratt - Quiet Signs
 - Bibio - Ribbons
 - Big Thief - U.F.O.F.
+- Angel Olsen - All Mirrors
+- Vampire Weekend - Father of the Bride
 - The Tallest Man on Earth - I Love You. It's A Fever Dream.
 - Lifafa - Jaago
-- Angel Olsen - All Mirrors
-- Jay Som - Anak Ko
-- Stella Donnelly - Beware of the Dogs
-- SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES (NON-STOP REMIX ALBUM) { 6/9 }
-- Thom Yorke - ANIMA
-- Vampire Weekend - Father of the Bride
-- Andreas Söderström & Rickard Jäverling - Adelsö
--  Beirut - Gallipoli
--  Panda Bear - Buoys
-- The National - I Am Easy To Find
-- Tycho - Weather
-- Jenny Hval - The Practice of Love
-- FKA twigs - MAGDALENE
 - Nils Frahm - All Encores
+- Stella Donnelly - Beware of the Dogs
+- Jay Som - Anak Ko
+- FKA twigs - MAGDALENE
+- Jenny Hval - The Practice of Love
+- SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES (NON-STOP REMIX ALBUM) { 6/9 }
+- Tycho - Weather
+- Thom Yorke - ANIMA
+- Andreas Söderström & Rickard Jäverling - Adelsö
+-  Panda Bear - Buoys
+-  Beirut - Gallipoli
+- The National - I Am Easy To Find

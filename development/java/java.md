@@ -46,3 +46,4 @@ There are eight *primitive data types* in Java.
 - [Java on Wikipedia](https://en.wikipedia.org/wiki/Java_\(programming_language\))
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 - [Java on Hackr.io](https://hackr.io/tutorials/learn-java)
+- [University of Helsinki's free Java course](http://moocfi.github.io/courses/2013/programming-part-1/material.html)
