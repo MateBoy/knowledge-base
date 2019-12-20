@@ -1,5 +1,5 @@
 ### Total Count
-200 Albums / EPs
+204 Albums / EPs
 
 ### January
 * **Chrome Sparks** - Be On Fire [EP] { 1/1 }
@@ -224,3 +224,7 @@
 
 ### December
 * **Burial** - Tunes 2011 To 2019 { 6/12 }
+* **Lana Del Rey** - Norman Fucking Rockwell! { 19/12 }
+* **Kaytranada** - BUBBA { 19/12 }
+* **Julianna Barwick** - Circumstance Synthesis [EP] { 20/12 }
+* **James Holden** - A Cambodian Spring OST { 20/12 }
