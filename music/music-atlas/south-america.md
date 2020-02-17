@@ -11,6 +11,16 @@
 - Genre: MPB
 - [Spotify](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM?si=M0hShcNDQCmjq0rOo3IsVQ)
 
+## Colombia 🇨🇴
+### Ondatrópica
+- Genre: Cumbia, Latin Jazz
+- [Spotify](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh?si=_VI0c6VtTeizhC-JiGgttA)
+
+## Mexico 🇲🇽
+### Natalia Lafourcade
+- Genre: Nueva canción latinoamericana, Chamber Pop, Folk Pop, Mexican Folk Music
+- [Spotify](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp?si=eTq80WmlSa6gh2ldJlHTTg)
+
 ## Venezuela 🇻🇪
 ### Arca
 - Genre: Glitch Hop, Art Pop, IDM
