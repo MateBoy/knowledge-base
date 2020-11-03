@@ -1,8 +1,8 @@
-# Knowledge Base
+# Digital Garden 🌿
 Hi there! 👋  
-My name is Mathias and this wiki is an ongoing database of knowledge I both want to share and want to remember and document for myself.
+My name is Mathias and this garden is an ongoing database of knowledge I both want to share and want to remember and document for myself.
 
-It was inspired by Nikitia Voloboev's amazing [Everything I Know](https://wiki.nikitavoloboev.xyz/).
+It was inspired by Nikitia Voloboev's [Everything I Know](https://wiki.nikitavoloboev.xyz/).
 
 You can also find a list with a lot of similar projects [here](https://github.com/RichardLitt/meta-knowledge#readme).
 
